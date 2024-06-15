@@ -1,4 +1,9 @@
 # Book's Brightness
+<p align="center">
+  <img src="/Library%20Corner.png" alt="alt text">
+</p>
+
+---
 ### Description
 The **Book's Brightness** web app is designed thoughtfully, with various features grouped into clear categories. This README file provides a detailed overview of the project's structure, explains each file's purpose, and sheds light on the reasons behind specific design choices I made during the development.
 Project Structure
@@ -26,3 +31,4 @@ products.css = This is the styling file for templates that display products( ind
 
 styles.css = This is the styling file for the layout template.
  *You can notice that almost all the templates in one way or another have the a very close deign pattern.*
+ ---
