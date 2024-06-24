@@ -202,7 +202,7 @@ a {
  text-transform: uppercase;
  text-align: center;
  animation: moving-border 5s infinite;
- text-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+ 
 }
 /* text animation start */
 @keyframes moving-border {
@@ -227,7 +227,7 @@ a {
  font-size: 100px;
  font-weight: 400;
  color: #d4af37;
- text-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+
 }
 .content-theme-light p {
  text-align: justify;
@@ -242,7 +242,7 @@ a {
  font-size: 100px;
  font-weight: 400;
  color: #d4af37;
- text-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+ 
 }
 .content-theme-neutral p {
  text-align: justify;
