@@ -18,6 +18,6 @@ The index is the main template of the project. It contains the nav bar, the foot
  The main section displays the index template. 
 
 ![facebook](https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)
-[![instagram](https://img.shields.io/badge/google-google?style=for-the-badge&logo=google&logoColor=white)](https://www.instagram.com/maktba_mhamdia/)]
+[![instagram](https://img.shields.io/badge/instagram-google?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maktba_mhamdia/)]
 
 ---
